@@ -5,20 +5,26 @@ IT Security and Compliance Analyst | Aspiring Cybersecurity Specialist
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat&logo=medium&link=https://medium.com/@Samuel_Adeola)](https://medium.com/@Samuel_Adeola)
 
 ## Objective
-Dynamic and results-driven  IT Security and Compliance with extensive expertise in Cybersecurity Risk Management, Third-Party Risk Management, Security Audits, Vulnerability Management, Identity and Access Management (IAM), and Data Security (DLP). Passionate about implementing advanced security solutions to safeguard organizations against a wide range of cyber threats. Seeking to leverage my multidisciplinary skills to enhance organizational resilience, drive continuous security improvement, and proactively mitigate cyber risks.
+Dynamic and results-driven  IT Security and Compliance with extensive expertise in Cybersecurity Risk Management, Third-Party Risk Management, Security Audits, Vulnerability Management, Identity and Access Management (IAM), and Data Security (DLP). Passionate about implementing advanced security solutions to safeguard organizations against various cyber threats. I seek to leverage my multidisciplinary skills to enhance organizational resilience, drive continuous security improvement, and proactively mitigate cyber risks.
 
 ## Professional Goals
 Seeking to advance my expertise in Security Operations Center (SOC) management, Threat Hunting, Incident Response, and Red Teaming, with a focus on proactive defense strategies, adversary emulation, and enhancing organizational cybersecurity posture
     
 ## Projects
-| Project Title                                         | Link         |
-|-----------------------------------------------|----------------------------|
-|          |      |
-|  | |
-|        | |
-|       | |
-|                 | |
-|  | |
+| Threat Hunting and In-Depth Investigation                                   |
+|   |Project Title                        | Skills              | Link         |
+|---|-------------------------------------|---------------------|--------------|
+| 1 |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
+| 2 |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk |              | 
+| 3 |                                     |                     |              |
+
+
+##
+
+| GRC/Identity and Access Management                                               |
+|   | Project Title                       | Skills             | Project Link  |     
+|---|-------------------------------------|--------------------|---------------|
+| 1 | Audit-Driven Identity and Access Management Framework Using Active Directory: Ensuring Security and Compliance Through Monitoring |IAM, Active Directory, SIEM, Splunk, Audit, | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
 
 ## Technical Skills
 ### SIEM
@@ -42,7 +48,7 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
-## Identity andAccess Management
+## Identity and Access Management
 [![Active Directory](https://img.shields.io/badge/Active%20Directory-0082C9?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services)
 [![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/iam/)
 [![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
