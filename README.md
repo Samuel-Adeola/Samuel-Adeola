@@ -11,7 +11,8 @@ Dynamic and results-driven  IT Security and Compliance with extensive expertise 
 Seeking to advance my expertise in Security Operations Center (SOC) management, Threat Hunting, Incident Response, and Red Teaming, with a focus on proactive defense strategies, adversary emulation, and enhancing organizational cybersecurity posture
     
 ## Projects
-| Threat Hunting and In-Depth Investigation                                   |
+| Threat Hunting and In-Depth Investigation|
+|--------|
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
 | 1 |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
@@ -21,7 +22,8 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 
 ##
 
-| GRC/Identity and Access Management                                               |
+| GRC/Identity and Access Management|
+|-------------------------------------|
 |   | Project Title                       | Skills             | Project Link  |     
 |---|-------------------------------------|--------------------|---------------|
 | 1 | Audit-Driven Identity and Access Management Framework Using Active Directory: Ensuring Security and Compliance Through Monitoring |IAM, Active Directory, SIEM, Splunk, Audit, | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
