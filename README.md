@@ -1,4 +1,4 @@
-# Hello, I'm Samuel
+## Hello, I'm Samuel
 IT Security and Compliance Analyst | Aspiring Cybersecurity Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samueladeola)](https://www.linkedin.com/in/samueladeola)
@@ -11,8 +11,8 @@ Dynamic and results-driven  IT Security and Compliance with extensive expertise 
 Seeking to advance my expertise in Security Operations Center (SOC) management, Threat Hunting, Incident Response, and Red Teaming, with a focus on proactive defense strategies, adversary emulation, and enhancing organizational cybersecurity posture
     
 ## Projects
-| Threat Hunting and In-Depth Investigation|
-|--------|
+| Threat Hunting and In-Depth Investigation|    |    |   |
+|--------|-----|-----|-----|
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
 | 1 |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
