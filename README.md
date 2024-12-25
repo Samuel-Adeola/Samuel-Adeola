@@ -13,17 +13,15 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 ## Projects
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
-| Threat Hunting and In-Depth Investigation|    |    |   |
-| 1 |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
-| 2 |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk |              | 
+| |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
+| Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk |              | 
 | 3 |                                     |                     |              |
 
 
 ##
 |   | Project Title                       | Skills             | Project Link  |     
 |---|-------------------------------------|--------------------|---------------|
-| GRC/Identity and Access Management|
-| 1 | Audit-Driven Identity and Access Management Framework Using Active Directory: Ensuring Security and Compliance Through Monitoring |IAM, Active Directory, SIEM, Splunk, Audit, | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
+| GRC/Identity and Access Management| Audit-Driven Identity and Access Management Framework Using Active Directory: Ensuring Security and Compliance Through Monitoring |IAM, Active Directory, SIEM, Splunk, Audit, | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
 
 ## Technical Skills
 ### SIEM
