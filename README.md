@@ -16,6 +16,7 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 | Cybersecurity HomeLab Set-up |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
 | Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk | https://github.com/Samuel-Adeola/ThreatHunting-MaliciousDocument             | 
 | GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
+| Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs |
 
 ## Technical Skills
 ### SIEM
