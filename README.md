@@ -1,5 +1,5 @@
 ## Hello, I'm Samuel
-IT Security and Compliance Analyst | Identity and Access Management Engineer | SOC Analyst 
+IT Security and Compliance Analyst | Identity and Access Management Engineer | SOC Analyst |
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samueladeola)](https://www.linkedin.com/in/samueladeola)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat&logo=medium&link=https://medium.com/@Samuel_Adeola)](https://medium.com/@Samuel_Adeola)
@@ -12,7 +12,7 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
     
 ## PROJECTS
 
-Identity and access Mangement Projects
+Identity and access Mangement Projects:
 
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
@@ -23,11 +23,10 @@ Identity and access Mangement Projects
 
 
 
-SIEM Projects
+SIEM Projects:
 
 |   |Project Title                        | Skills              | Link         |
-|---|-------------------------------------|---------------------|--------------|
-           | 
+|---|-------------------------------------|---------------------|--------------|           | 
 | GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
 | Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs |
 |   |                |               |          |
@@ -36,7 +35,7 @@ SIEM Projects
 
 
 
-SOC Analyst Projects
+SOC Analyst Projects:
 
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
@@ -48,7 +47,7 @@ SOC Analyst Projects
 
 
 
-Threat Hunting Projects
+Threat Hunting Projects:
 
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
@@ -58,8 +57,25 @@ Threat Hunting Projects
 |   |                |               |          |
 
 
-## PERSONAL DEVELOPMENT TRAINNING
+## PROFESSIONAL DEVELOPMENT AND TRAINING
 
+Information Security Specialist Training (https://app.letsdefend.io/)	
+Focus areas: Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing
+
+Security Operation Center (SOC) Analyst Training (https://academy.mydfir.com)		
+Focus area: Log monitoring and analyzing, Threat hunting, vulnerability management, Incidence detection and response 
+Tools: Splunk (SIEM), Wireshark, Microsoft Defender, Tenable Nessus, Nmap, TCPDump, VirusTotal, MITRE ATT&CK
+
+Certified Information Systems Auditor (CISA) 2019 Training						
+SkillSets: Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com
+Focus areas: IT governance, Risk assessment, and Auditing principles; data security; and resource planning.
+
+Governance, Risk, and Compliance (GRC) Mastery (https://www.grcmastery.com)           		
+Focus areas: Risk Management, Third-Party Risk Management, Security Audits, Data Security (DLP), NIST framework, ISO/IEC 27001, CIS
+Tools: NIST framework, ISO/IEC 27001, CIS, 
+
+Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering 		
+Landmark Technologies Inc. (www.mylandmarktech.com)
 
 
 
