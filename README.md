@@ -26,8 +26,8 @@ Identity and access Mangement Projects:
 SIEM Projects:
 
 |   |Project Title                        | Skills              | Link         |
-|---|-------------------------------------|---------------------|--------------|           | 
-| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
+|---|-------------------------------------|---------------------|--------------|
+| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance | IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
 | Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs |
 |   |                |               |          |
 |   |                |               |          |
@@ -60,7 +60,12 @@ Threat Hunting Projects:
 ## PROFESSIONAL DEVELOPMENT AND TRAINING
 
 Information Security Specialist Training (https://app.letsdefend.io/)	
-Focus areas: Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing
+Focus area: Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing
+
+SIEM Engineer Training (https://app.letsdefend.io/)							
+Focus area: Log monitoring and analyzing, Threat hunting, Network security, SOAR 
+Tools: Splunk, Wazuh, TheHive, IBM QRadar
+
 
 Security Operation Center (SOC) Analyst Training (https://academy.mydfir.com)		
 Focus area: Log monitoring and analyzing, Threat hunting, vulnerability management, Incidence detection and response 
@@ -68,10 +73,10 @@ Tools: Splunk (SIEM), Wireshark, Microsoft Defender, Tenable Nessus, Nmap, TCPDu
 
 Certified Information Systems Auditor (CISA) 2019 Training						
 SkillSets: Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com
-Focus areas: IT governance, Risk assessment, and Auditing principles; data security; and resource planning.
+Focus area: IT governance, Risk assessment, and Auditing principles, Data security, and resource planning.
 
 Governance, Risk, and Compliance (GRC) Mastery (https://www.grcmastery.com)           		
-Focus areas: Risk Management, Third-Party Risk Management, Security Audits, Data Security (DLP), NIST framework, ISO/IEC 27001, CIS
+Focus area: Risk Management, Third-Party Risk Management, Security Audits, and Data Security (DLP), NIST framework, ISO/IEC 27001, CIS
 Tools: NIST framework, ISO/IEC 27001, CIS, 
 
 Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering 		
