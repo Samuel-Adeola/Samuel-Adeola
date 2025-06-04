@@ -59,24 +59,32 @@ Threat Hunting Projects:
 
 ## PROFESSIONAL DEVELOPMENT AND TRAINING
 
-Information Security Specialist Training (https://app.letsdefend.io/)	
+Information Security Specialist Training (https://app.letsdefend.io/)
+
 Focus area: Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing
 
-SIEM Engineer Training (https://app.letsdefend.io/)							
+SIEM Engineer Training (https://app.letsdefend.io/)	
+
 Focus area: Log monitoring and analyzing, Threat hunting, Network security, SOAR 
+
 Tools: Splunk, Wazuh, TheHive, IBM QRadar
 
 
 Security Operation Center (SOC) Analyst Training (https://academy.mydfir.com)		
 Focus area: Log monitoring and analyzing, Threat hunting, vulnerability management, Incidence detection and response 
+
 Tools: Splunk (SIEM), Wireshark, Microsoft Defender, Tenable Nessus, Nmap, TCPDump, VirusTotal, MITRE ATT&CK
 
 Certified Information Systems Auditor (CISA) 2019 Training						
+
 SkillSets: Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com
+
 Focus area: IT governance, Risk assessment, and Auditing principles, Data security, and resource planning.
 
 Governance, Risk, and Compliance (GRC) Mastery (https://www.grcmastery.com)           		
+
 Focus area: Risk Management, Third-Party Risk Management, Security Audits, and Data Security (DLP), NIST framework, ISO/IEC 27001, CIS
+
 Tools: NIST framework, ISO/IEC 27001, CIS, 
 
 Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering 		
