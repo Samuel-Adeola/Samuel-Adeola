@@ -1,24 +1,69 @@
 ## Hello, I'm Samuel
-IT Security and Compliance Analyst | Aspiring Cybersecurity Specialist
+IT Security and Compliance Analyst | Identity and Access Management Engineer | SOC Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samueladeola)](https://www.linkedin.com/in/samueladeola)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat&logo=medium&link=https://medium.com/@Samuel_Adeola)](https://medium.com/@Samuel_Adeola)
 
-## Objective
+## OBJECTIVE
 Dynamic and results-driven  IT Security and Compliance with extensive expertise in Cybersecurity Risk Management, Third-Party Risk Management, Security Audits, Vulnerability Management, Identity and Access Management (IAM), and Data Security (DLP). Passionate about implementing advanced security solutions to safeguard organizations against various cyber threats. I seek to leverage my multidisciplinary skills to enhance organizational resilience, drive continuous security improvement, and proactively mitigate cyber risks.
 
-## Professional Goals
+## PROFESSIONAL GOALS
 Seeking to advance my expertise in Security Operations Center (SOC) management, Threat Hunting, Incident Response, and Red Teaming, with a focus on proactive defense strategies, adversary emulation, and enhancing organizational cybersecurity posture
     
-## Projects
+## PROJECTS
+
+Identity and access Mangement Projects
+
+|   |Project Title                        | Skills              | Link         |
+|---|-------------------------------------|---------------------|--------------|
+| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
+| Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs- |
+|   |                |               |          |
+|   |                |               |          |
+
+
+
+SIEM Projects
+
+|   |Project Title                        | Skills              | Link         |
+|---|-------------------------------------|---------------------|--------------|
+           | 
+| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
+| Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs |
+|   |                |               |          |
+|   |                |               |          |
+
+
+
+
+SOC Analyst Projects
+
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
 | Cybersecurity HomeLab Set-up |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
 | Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk | https://github.com/Samuel-Adeola/ThreatHunting-MaliciousDocument             | 
-| GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
-| Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs |
+|   |                |               |          |
+|   |                |               |          |
+|   |                |               |          |
 
-## Technical Skills
+
+
+Threat Hunting Projects
+
+|   |Project Title                        | Skills              | Link         |
+|---|-------------------------------------|---------------------|--------------|
+| Cybersecurity HomeLab Set-up |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
+| Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk | https://github.com/Samuel-Adeola/ThreatHunting-MaliciousDocument             | 
+|   |                |               |          |
+|   |                |               |          |
+
+
+## PERSONAL DEVELOPMENT TRAINNING
+
+
+
+
+## TECHNICAL SKILLS
 ### SIEM
 [![Splunk](https://img.shields.io/badge/Splunk-0079A5?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com)
 [![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/services/azure-sentinel/)
@@ -55,7 +100,7 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 [![SID](https://img.shields.io/badge/SID-2D2D2D?style=for-the-badge&logo=shield&logoColor=white)](https://www.sans.org/cyber-security-summit/)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-5A2E4E?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org/)
 
-## Certifications
+## CERTIFICATIONS
 <div>
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
