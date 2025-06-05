@@ -52,9 +52,21 @@ Threat Hunting Projects:
 |   |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
 | Cybersecurity HomeLab Set-up |CloudSecurity_AWS-Terraform_Lab      |Automation, AWS Services, Terraform | https://github.com/Samuel-Adeola/CloudSecurity_AWS-Terraform_Lab-|
-| Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis                                     |SIEM Implementation, log analysis, Threat Hunting, Splunk | https://github.com/Samuel-Adeola/ThreatHunting-MaliciousDocument             | 
+| Threat Hunting and In-Depth Investigation |Threat Hunting and Investigation: Detecting Malicious Documents embedded with macro Using Sysmon Event Monitoring and Splunk Visualization for Real-Time Analysis | SIEM Implementation, log analysis, Threat Hunting, Splunk | https://github.com/Samuel-Adeola/ThreatHunting-MaliciousDocument             | 
 |   |                |               |          |
 |   |                |               |          |
+
+
+|   | Trainning           | Focus Areas | Tools             | Resource         |
+|---|----------------------|---------------|---------------------|--------------|
+|   | Identity and Access Management | AD, Micosoft Entra ID, CIAM      | AD, Micosoft Entra ID | https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=ST21MT30625G1,          |
+|   | Information Security Specialis | Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing |      |https://app.letsdefend.io/|
+|   | SIEM Engineer | Log monitoring and analyzing, Threat hunting, Network security, SOAR | Splunk, Wazuh, TheHive, IBM QRadar | https://app.letsdefend.io/ |
+|   | Security Operation Center (SOC) Analyst |  Log Monitoring and Analyzes, Threat Hunting, vulnerability Management, Incidence Detection and Response |          |
+|   | Certified Information Systems Auditor (CISA) | IT governance, Risk assessment, and Auditing principles, Data security, and resource planning |           | Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com |
+|   | Governance, Risk, and Compliance (GRC) Mastery | Risk Management, Third-Party Risk Management, Security Audits, and Data Security (DLP), NIST framework, ISO/IEC 27001, CIS |           | (https://www.grcmastery.com) |
+|   | Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering               |      |           | (www.mylandmarktech.com)|
+|   |                |      |           |          |
 
 
 ## PROFESSIONAL DEVELOPMENT AND TRAINING
@@ -110,7 +122,14 @@ Landmark Technologies Inc. (www.mylandmarktech.com)
 [![Nmap](https://img.shields.io/badge/Nmap-00A6A6?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 
 ### Cloud Security
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)## 🏅 Certifications
+
+### GRC Mastery – Governance, Risk & Compliance Analyst
+
+<a href="https://www.grcmastery.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/certs/grc-mastery.png" alt="GRC Mastery Certificate Badge" width="120"/>
+</a>
+
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 
@@ -133,3 +152,15 @@ Landmark Technologies Inc. (www.mylandmarktech.com)
 <div>
 <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
+<a href="https://grcmastery.com/verify/certificate12345" target="_blank">
+  <img src="assets/certs/grc-mastery.png" alt="GRC Mastery Certificate" width="120"/>
+</a>
+
+## 🏅 Certifications
+
+### GRC Mastery – Governance, Risk & Compliance Analyst
+
+<a href="https://www.grcmastery.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/certs/grc-mastery.png" alt="GRC Mastery Certificate Badge" width="120"/>
+</a>
