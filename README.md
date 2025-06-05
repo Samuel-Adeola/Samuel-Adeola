@@ -14,7 +14,7 @@ Seeking to advance my expertise in Security Operations Center (SOC) management, 
 
 Identity and Access Management Projects:
 
-|   |Project Title                        | Skills              | Link         |
+| Domain  |Project Title                        | Skills              | Link         |
 |---|-------------------------------------|---------------------|--------------|
 | GRC/Identity and Access Management| Automating an Audit-Driven Identity and Access Management Framework in Active Directory with Enhanced Security and Compliance |IAM, Active Directory, SIEM, Splunk, Audit, PowerShell | https://github.com/Samuel-Adeola/GRC-Identity_Access_Management_Project |
 | Active Directory Management | Active Directory Domain Services (AD DS) Implementation and Management for Organizational User and Resource Structure Using Agile Methodology | Active Directory, PowerShell Automation, Project Management | https://github.com/Samuel-Adeola/IAM_ActiveDirectory_ProjectLabs- |
@@ -57,16 +57,16 @@ Threat Hunting Projects:
 |   |                |               |          |
 
 ## PROFESSIONAL DEVELOPMENT AND TRAINING
-|   | Trainning           | Focus Areas | Tools             | Resource         |
-|---|----------------------|---------------|---------------------|--------------|
-|   | Identity and Access Management | AD, Micosoft Entra ID, CIAM      | AD, Micosoft Entra ID | https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=ST21MT30625G1,          |
-|   | Information Security Specialist | Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing |      |https://app.letsdefend.io/|
-|   | SIEM Engineer | Log monitoring and analyzing, Threat hunting, Network security, SOAR | Splunk, Wazuh, TheHive, IBM QRadar | https://app.letsdefend.io/ |
-|   | Security Operation Center (SOC) Analyst |  Log Monitoring and Analysis, Threat Hunting, Vulnerability Management, Incident Detection and Response |          |
-|   | Certified Information Systems Auditor (CISA) | IT governance, Risk assessment, and Auditing principles, Data security, and resource planning |           | Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com |
-|   | Governance, Risk, and Compliance (GRC) Mastery | Risk Management, Third-Party Risk Management, Security Audits, and Data Security (DLP), NIST framework, ISO/IEC 27001, CIS |           | (https://www.grcmastery.com) |
-|   | Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering               |      |           | (www.mylandmarktech.com)|
-|   |                |      |           |          |
+| Trainning           | Focus Areas | Tools             | Resource         |
+|----------------------|---------------|---------------------|--------------|
+| Identity and Access Management | AD, Micosoft Entra ID, CIAM      | AD, Micosoft Entra ID | https://www.udemy.com/course/sc-300-course-microsoft-identity-and-access-administrator/?couponCode=ST21MT30625G1,          |
+| Information Security Specialist | Information security, Identity and Access Management, Risk management, Asset Management and Data Classification, Business Continuity Management, Security Audit and Testing |      |https://app.letsdefend.io/|
+| SIEM Engineer | Log monitoring and analyzing, Threat hunting, Network security, SOAR | Splunk, Wazuh, TheHive, IBM QRadar | https://app.letsdefend.io/ |
+| Security Operation Center (SOC) Analyst |  Log Monitoring and Analysis, Threat Hunting, Vulnerability Management, Incident Detection and Response |          |
+| Certified Information Systems Auditor (CISA) | IT governance, Risk assessment, and Auditing principles, Data security, and resource planning |           | Sponsored by Manitoba Agricultural Services Corporation https://skillsetsonline.com |
+| Governance, Risk, and Compliance (GRC) Mastery | Risk Management, Third-Party Risk Management, Security Audits, and Data Security (DLP), NIST framework, ISO/IEC 27001, CIS |           | (https://www.grcmastery.com) |
+| Agile Methodology and Software Life Cycle Development, DevOps, and AWS Cloud Engineering               |      |           | (www.mylandmarktech.com)|
+|                |      |           |          |
 
 
 
@@ -121,7 +121,7 @@ Threat Hunting Projects:
 
 
 <div>
-  <img src="https://img.shields.io/badge/-GRC_Mastery-darkgreen?&style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GRC_Mastery-darkgrey?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
 
