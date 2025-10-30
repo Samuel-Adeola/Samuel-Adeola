@@ -128,6 +128,15 @@ Threat Hunting Projects:
 [![Microsoft Certified: Identity and Access Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20Associate-0078D4?logo=microsoft%20azure&logoColor=white&style=for-the-badge)](https://www.credly.com/)
 
 
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EE1C25?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/)
+
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EE1C25?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/)
+
+
+[![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-EE1C25?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/)
+
+[![LetsDefend Information Security Specialist](https://img.shields.io/badge/LetsDefend-Information%20Security%20Specialist-2E8B57?style=for-the-badge)](https://letsdefend.io/)
+
 
 
 
