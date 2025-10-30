@@ -1,14 +1,14 @@
 ## Hello, I'm Samuel
-IT Security and Compliance Analyst | Identity and Access Management Engineer | SOC Analyst |
+IT Security and Compliance Analyst | Identity and Access Management Engineer | IT AUDIT  |GRC | RISK ANALYST | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/samueladeola)](https://www.linkedin.com/in/samueladeola)
 [![Medium](https://img.shields.io/badge/Medium-Profile-black?style=flat&logo=medium&link=https://medium.com/@Samuel_Adeola)](https://medium.com/@Samuel_Adeola)
 
-## OBJECTIVE
-Dynamic and results-driven  IT Security and Compliance with extensive expertise in Cybersecurity Risk Management, Third-Party Risk Management, Security Audits, Vulnerability Management, Identity and Access Management (IAM), and Data Security (DLP). Passionate about implementing advanced security solutions to safeguard organizations against various cyber threats. I seek to leverage my multidisciplinary skills to enhance organizational resilience, drive continuous security improvement, and proactively mitigate cyber risks.
+## PROFESSIONAL SUMMARY
+Information Security and IAM Analyst with experience in enhancing enterprise security through identity governance, vulnerability management, and regulatory compliance. Proven record of reducing critical vulnerabilities, eliminating IAM risks, and improving incident response efficiency through automation. Skilled in AD, Azure AD, CIAM, MFA/SSO, and leading security tools, including Splunk, Nessus, and Wireshark. Certified in Security+, PenTest+, Network+ and SC-300, and currently pursuing an MSc in Information Security. I bring a potent blend of technical expertise, alignment with governance, and strategic vision to strengthen security postures, reduce risks, and safeguard critical infrastructure in regulated environments.
 
 ## PROFESSIONAL GOALS
-Seeking to advance my expertise in Security Operations Center (SOC) management, Threat Hunting, Incident Response, and Red Teaming, with a focus on proactive defense strategies, adversary emulation, and enhancing organizational cybersecurity posture
+Aspiring to advance my expertise in Security Operations Center (SOC) management, threat hunting, incident detection and response, and information security auditing, with a strong focus on governance, risk, and compliance (GRC). Passionate about strengthening proactive defence strategies, conducting adversary emulation, and enhancing the security and resilience of critical infrastructure.
     
 ## PROJECTS
 
