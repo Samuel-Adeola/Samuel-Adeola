@@ -125,6 +125,7 @@ Threat Hunting Projects:
 </div>
 
 
+[![Microsoft Certified: Identity and Access Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20Associate-0078D4?logo=microsoft%20azure&logoColor=white&style=for-the-badge)](https://www.credly.com/)
 
 
 
