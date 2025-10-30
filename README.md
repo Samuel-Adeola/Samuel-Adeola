@@ -116,10 +116,6 @@ Threat Hunting Projects:
 
 ## CERTIFICATIONS
 
-<div>
-  <img src="https://img.shields.io/badge/-GRC_Mastery-darkgrey?&style=for-the-badge&logo=shield&logoColor=white" />
-</div>
-
 [![Microsoft Certified: Identity and Access Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Identity%20and%20Access%20Administrator%20Associate-0078D4?logo=microsoft%20azure&logoColor=white&style=for-the-badge)](https://www.credly.com/)
 
 [![CompTIA Network Vulnerability Assessment Professional](https://img.shields.io/badge/CompTIA-Network%20Vulnerability%20Assessment%20Professional-EE1C25?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/7f604f49-d166-4fca-b2b9-87efe6a7010b/public_url)
